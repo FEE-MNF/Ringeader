@@ -34,3 +34,8 @@ Running
 The Qt UI should be quite self explanatory. You load a video or connect to a camera (OpenCV does that), and wait for the text to be read out loud. 
 The video should be of a close-up of scanning along a printed text line with the finger.
 It supports only English` (left-to-right)
+
+
+To get the big picture:
+Ringeader Graduation Book
+https://drive.google.com/file/d/1C49qUUuoit7WyBqkdrXy8NRWsPiYrB_4/view?usp=sharing
